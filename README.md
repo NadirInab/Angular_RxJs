@@ -1,4 +1,14 @@
-# Angular_RxJs
+<div align="center">
+     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*bMgQ8MhbnQexpqHgIgBJPA.png" alt="Image Alt Text">
+  
+</div>
+
+![Javascript](https://img.shields.io/badge/Angular-red.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-gold.svg)
+![Java](https://img.shields.io/badge/RxJs-bleusvg)
+![Java](https://img.shields.io/badge/SPA-red.svg)
+![Java](https://img.shields.io/badge/dataBinding-black.svg)
+# Angular_RxJs 💯	
 This repo provide an overall view and few examples and use cases of RxJs library .
 
 ## Intro 
